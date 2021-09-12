@@ -1,0 +1,19 @@
+{
+  "name": "product-rating-fe",
+  "version": "1.0.0",
+  "description": "Simple product rating app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kraiyons/product-rating-fe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kraiyons/product-rating-fe/issues"
+  },
+  "homepage": "https://github.com/kraiyons/product-rating-fe#readme"
+}
