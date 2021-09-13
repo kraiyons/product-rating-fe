@@ -4,6 +4,7 @@
   "description": "Simple product rating app",
   "main": "index.js",
   "scripts": {
+    "dev": "serve index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
